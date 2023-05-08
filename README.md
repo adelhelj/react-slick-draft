@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/102548637/236898690-2ceb993f-5335-4bfa-bb6c-ca9fe7ae2883.png" alt="React Slick" width="400" />
 
-React-Slick is a useful and intuitive carousel component built using React.This tool enables one to build beautiful and responsive carousels that effectively integrate into a variety of web application projects. React-Slick has efficient documentation and an engaging community, which makes it the perfect tool to use when building dynamic & interactive carousel slideshows for any web application. 
+React-Slick is a useful and intuitive carousel component built using React. This tool enables one to build beautiful and responsive carousels that effectively integrate into a variety of web application projects. React-Slick has efficient documentation and an engaging community, which makes it the perfect tool to use when building dynamic & interactive carousel slideshows for any web application. 
 
 To get setup, please look below at the table of contents.
 
